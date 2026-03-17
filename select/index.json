@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Mellow My Man",
+  "base_artist": "The Roots",
+  "createdAt": "2026-03-17T21:20:19.968751Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mellow My Man",
+      "artist": "The Roots",
+      "has_synced": true,
+      "path": "select/01_Mellow_My_Man_The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mellow My Man",
+      "artist": "The Roots",
+      "has_synced": false,
+      "path": "select/02_Mellow_My_Man_The_Roots.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mellow My Man",
+      "artist": "Roots, The",
+      "has_synced": false,
+      "path": "select/03_Mellow_My_Man_Roots,_The.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Mellow My Man",
+      "artist": "Roots",
+      "has_synced": true,
+      "path": "select/04_Mellow_My_Man_Roots.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mellow My Man",
+      "artist": "The Roots",
+      "has_synced": true,
+      "path": "select/05_Mellow_My_Man_The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "No Pierdo Nada (Nothin' To Lose) (feat. Mellow Man Ace)",
+      "artist": "Cypress Hill",
+      "has_synced": false,
+      "path": "select/06_No_Pierdo_Nada_(Nothin'_To_Lose)_(feat._Mellow_Man_Ace)_Cypress_Hill.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mellow Man",
+      "artist": "Laura Mvula",
+      "has_synced": true,
+      "path": "select/07_Mellow_Man_Laura_Mvula.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mellow Man",
+      "artist": "Mvula, Laura",
+      "has_synced": true,
+      "path": "select/08_Mellow_Man_Mvula,_Laura.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "No Pierdo Nada (Nothin' To Lose) (feat. Mellow Man Ace) - Spanish Version",
+      "artist": "Cypress Hill",
+      "has_synced": false,
+      "path": "select/09_No_Pierdo_Nada_(Nothin'_To_Lose)_(feat._Mellow_Man_Ace)_-_Spanish_Version_Cypress_Hill.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "My Mellow Man",
+      "artist": "Big Bill Broonzy",
+      "has_synced": false,
+      "path": "select/10_My_Mellow_Man_Big_Bill_Broonzy.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Mellow Man",
+      "artist": "The Painted Roses",
+      "has_synced": false,
+      "path": "select/11_Mellow_Man_The_Painted_Roses.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "No Pierdo Nada (Nothin' To Lose) Featuring Mellow Man Ace",
+      "artist": "Cypress Hill",
+      "has_synced": false,
+      "path": "select/12_No_Pierdo_Nada_(Nothin'_To_Lose)_Featuring_Mellow_Man_Ace_Cypress_Hill.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "No pierdo nada (feat. Mellow Man Ace)",
+      "artist": "Cypress Hill",
+      "has_synced": false,
+      "path": "select/13_No_pierdo_nada_(feat._Mellow_Man_Ace)_Cypress_Hill.txt"
+    }
+  ]
+}
