@@ -1,0 +1,140 @@
+# The Roots – Mellow My Man
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:00.13] One two
+[00:01.55] Yes, The Roots layin back, rela-xin
+[00:04.60] Coolin out with my man Malik B
+[00:06.62] We call him sla-xon
+[00:08.62] Ya know what I'm saying? We in effect
+[00:27.12] 
+[00:10.75] Mo' like Al B sure, for your plea-sure
+[00:13.62] Ay yo, bust it
+[00:15.06] We about to flip it on some ol' laid back, mellow my man tip
+[00:18.20] We gon' set it like this
+[00:20.40] Yo check it
+[00:25.90] 
+[00:21.75] Bust it, la di da di, who likes to party
+[00:24.48] Like slick rick the ruler I'm cooler than a ice brick
+[00:27.39] Got soul like those afro picks, with the black fist
+[00:29.85] And leave a crowd drippin like John The Baptist, it's
+[00:32.64] The cause of that - Oh shit!
+[00:33.95] The skits I kick, flows like catfish
+[00:35.84] And got many emcees on the blacklist
+[00:37.94] I'm sharp as a cactus plus, quick to bust gymnastic tactics
+[00:40.98] Us, Roots is really true to that rap shit
+[00:43.14] Now holla to the scholarly, street skats that follow me
+[00:45.91] Back to the soul shack with packs of rap colonies
+[00:48.47] Max that, foreign objects is mad abstract, make shadrach
+[00:51.62] Offender wanna go like meshach, black
+[00:53.72] Thought the nappy cat a bookworm shoe styles like sperm
+[00:56.64] Cool as malcolm little with conch a la perm burn
+[00:59.06] The herb sticks like wicks, and flips when I slaps the hand
+[01:02.17] Of my mellow my man, Malik B
+[01:16.17] 
+[01:04.29] Here I goes, negroes best to know the flower
+[01:06.88] The professional, best in those skills that kills so uhh
+[01:09.92] Whoa, slow down before you go down (sissy)
+[01:12.32] Trixie this is Agatha Christie your slain and know now
+[01:14.88] Next contender, Malik's the axe offender
+[01:17.38] Critique me so uniquely with mystique that's so deep within the
+[01:20.10] Microphones I grip, psych with poems so's I slits throats
+[01:23.40] Put him in a quote, when he croaks
+[01:25.36] They sayin isn't it, is it the negro that did it?
+[01:27.93] Cause wreck with the tech, make you jump and say 'ribbit'
+[01:30.46] I exhibit many forms, prohibit the corny forms
+[01:33.42] (And we're in, your neighborhood) on the norms
+[01:36.05] Capture, was to, whack ya
+[01:38.45] Manu-facture, you can even ask Anita about the, rap-ture
+[01:42.08] I figured, perhaps ya, a say it slam
+[01:44.37] For my mellow my man
+[01:54.37] 
+[01:45.66] The way we do it like this
+[01:46.27] That, for my mellow my man
+[01:48.96] It's like that for my mellow my man
+[01:50.42] No no we do it like that
+[01:51.71] This, for my mellow my man
+[01:53.85] It's like this for my mellow my man
+[01:56.04] No no we do it like this
+[01:57.58] That, for my mellow my man
+[01:59.25] It's like that for my mellow man
+[02:01.39] No no we do it like that
+[02:02.92] This, for my mellow my man
+[02:04.68] It's like this for my mellow my man
+[02:22.18] 
+[02:06.83] Yo, I got spunk, plus funk
+[02:08.98] And jump like punks, to get beat down
+[02:11.05] Turn that heat down, I'm crazy cool
+[02:12.73] Deeper than the pool than wilt the stilt
+[02:14.57] Damn near drowned in clowns bounce to sound
+[02:16.68] When thoughts pound
+[02:17.45] And brown's, my complexion section southern
+[02:19.56] My brother-in is jex, I
+[02:20.86] Sweats no sex, cause this kid gets
+[02:22.65] Grits n shit, it's flex to drains that was crazed
+[02:24.77] When your heart spit up, dip dup damn
+[02:26.73] Yo I lost it but
+[02:27.79] Back is the black boogey man
+[02:29.33] Manic mad musician, maker of noise
+[02:31.25] That's jocked, by your homeboys
+[02:32.94] I rocks my flocks of sheep, it's the slickest shepherd around
+[02:35.78] I was lost but was found, now I gets down
+[02:38.03] From Philly to the apple I, stop and holla tunes and then hit
+[02:40.93] Up-town, diggin planets when they get earthbound
+[02:43.15] I kick the groovy tunes for you and yours, when I pass the can
+[02:46.20] To my mellow my man, Malik B
+[03:00.20] 
+[02:48.38] Whoahhhhh, shucks, my nuc snuff ducks (uh-huh)
+[02:51.17] Abruptly I erupt, to destruct, deducts
+[02:53.52] In wax I like to smack em, stroke em as I cap em
+[02:56.13] Change my name to saran or reynolds then I wrap em
+[02:58.82] Negroes know we be furrow to my borough
+[03:01.21] Cause my ass is so thorough, like Levert Gerald
+[03:03.79] Too strong to be sterile
+[03:04.81] So I impregnates the greats (say what?)
+[03:06.73] Bust the Pacino's, I won't trust them
+[03:08.47] Even though I lust them shapes females for retail prices
+[03:11.85] Twice this nice, this witch sure does her spices
+[03:14.52] I won't smirk, cause my name's not Urkel
+[03:16.72] The voice with the multiple choice, she does a circle
+[03:19.38] You wanna turn and page your eyes, and try to plagiarize
+[03:22.49] But I degrade ya, slaughtered ya and slayed ya
+[03:24.60] Microphones I grip equipped to flip the hyp-ocrites
+[03:27.53] And nit-wits, with tidbit skits, them ain't shhh
+[03:30.06] That was a curse, but I divide it in half
+[03:32.26] Gets the airplay, no fair play, you're feelin the wrath
+[03:34.79] Of Malik, ay yo get tragic, negroes that get dramatic
+[03:37.42] Because I have the habit to smoke rabbits like a addict
+[03:39.88] So if you can not rap I will just slap you
+[03:42.48] If you wants to pick up on your nose be shows the chrome
+[03:44.46] And then we cap, you
+[03:45.73] It's too bad, dem can't understand de true check
+[03:48.43] For my mellow my man
+[03:58.43] 
+[03:49.74] The way we do it like this
+[03:51.47] That, for my mellow my man
+[03:53.05] It's like that for my mellow my man
+[03:54.89] No no we do it like that
+[03:56.78] This, for my mellow my man
+[03:58.23] It's like this for my mellow my man
+[04:00.06] No no we do it like this
+[04:01.80] That, for my mellow my man
+[04:03.47] It's like that for my mellow man
+[04:05.38] No no we do it like that
+[04:07.01] This, for my mellow my man
+[04:08.67] It's like this for my mellow my man
+[04:26.17] 
+[04:10.60] I think it's for my mellow my man, uhh
+[04:12.55] My mellow my man, right
+[04:13.64] My mellow my man, uhh
+[04:15.15] My mellow my man, right
+[04:16.47] My mellow my man, uhh
+[04:17.77] My mellow my man, right
+[04:19.04] My mellow my man my mellow my man my mellow my man my mellow my man
+[04:21.67] For Scott Storch, my mellow my man
+[04:23.68] Leonard Hubbard on the bass, my mellow my man
+[04:26.28] Brother Crushing on the drums, my mellow my man
+[04:29.03] Gotta end it on the one, my mellow my man
+[04:31.54] Check it
+```
